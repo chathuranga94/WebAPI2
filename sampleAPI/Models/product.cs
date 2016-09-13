@@ -5,7 +5,7 @@ using System.Web;
 
 namespace sampleAPI.Models
 {
-    public class product
+    public class Product
     {
         public int Id { get; set; }
         public string Name { get; set; }
