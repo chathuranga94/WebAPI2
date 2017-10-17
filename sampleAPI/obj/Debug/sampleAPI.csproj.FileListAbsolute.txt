@@ -39,3 +39,32 @@ c:\users\chath_000\documents\visual studio 2015\Projects\sampleAPI\sampleAPI\bin
 c:\users\chath_000\documents\visual studio 2015\Projects\sampleAPI\sampleAPI\obj\Debug\sampleAPI.csprojResolveAssemblyReference.cache
 c:\users\chath_000\documents\visual studio 2015\Projects\sampleAPI\sampleAPI\obj\Debug\sampleAPI.dll
 c:\users\chath_000\documents\visual studio 2015\Projects\sampleAPI\sampleAPI\obj\Debug\sampleAPI.pdb
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\bin\ApplicationInsights.config
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\bin\roslyn\csc.exe
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\bin\roslyn\vbc.exe
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\bin\sampleAPI.dll.config
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\bin\sampleAPI.dll
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\bin\sampleAPI.pdb
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\bin\Newtonsoft.Json.dll
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\bin\System.Web.Http.dll
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\bin\Newtonsoft.Json.xml
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\bin\System.Web.Http.xml
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\obj\Debug\sampleAPI.csprojResolveAssemblyReference.cache
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\obj\Debug\sampleAPI.dll
+C:\Users\jzubieta.OCCQRO\Desktop\GITTT\trunk\sampleAPI\obj\Debug\sampleAPI.pdb
