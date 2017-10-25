@@ -1,4 +1,7 @@
-﻿using System;
+﻿using Microsoft.Practices.Unity;
+using sampleAPI.Interfaces;
+using sampleAPI.Service;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
@@ -19,6 +22,10 @@ namespace sampleAPI
                 routeTemplate: "api/{controller}/{id}",
                 defaults: new { id = RouteParameter.Optional }
             );
+            var container = new UnityContainer();
+            container.RegisterType<IProductsService, ProductService>(new HierarchicalLifetimeManager());
+            config.DependencyResolver = new Resolver.UnityResolver(container);
         }
+       
     }
 }
